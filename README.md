@@ -1,10 +1,7 @@
 # New York CitiBike 2022
 
 ## Introduction:
-Imagine you’re the lead analyst for a bike-sharing service based in New York City, USA. Your
-team has been tasked with analyzing user behavior to help the business strategy department
-assess the current logistics model of bike distribution across the city and identify expansion
-opportunities.
+The New York bike-sharing service needs help from the business strategy department to asses the current logistics model of bike distribution across the city and identify expansion opportunities. This project will analyze user behavior and other trends such as weather trends and bike usage to help the NY Citi Bike.
 
 ## Objection of the Project: 
 The project’s objective is to conduct a descriptive analysis of existing data and discover
